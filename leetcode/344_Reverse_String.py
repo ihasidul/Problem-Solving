@@ -8,4 +8,3 @@ class Solution:
             s[item] = s[len(s) - (1 + item)]
             s[len(s) - (1 + item)] = temp
             #print(s)
-            
