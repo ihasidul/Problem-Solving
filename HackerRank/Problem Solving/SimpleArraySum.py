@@ -1,8 +1,6 @@
 #!/bin/python3
-
 import os
 import sys
-
 #
 # Complete the simpleArraySum function below.
 #
