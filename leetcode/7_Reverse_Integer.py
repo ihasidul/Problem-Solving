@@ -6,4 +6,4 @@ class Solution:
         #print(rn)
         if x < 0:
             return rn if rn > -2**31 else 0        
-        return r if r < 2**31 else 0
+        return r if r < 2**31 else 1 
