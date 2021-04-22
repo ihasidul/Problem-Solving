@@ -1,4 +1,4 @@
-# Write a program that will print out the cordinates of input keypad string.
+# Write a program that will print out the coordinates of input keypad string.
 #Example for 7 the output should be (0,0)
 #For 3 it is (2,2) and so on
 def keyCordinate(key: str) -> str:
@@ -21,7 +21,7 @@ def keyCordinate(key: str) -> str:
         return "There is an error in your input"
 def main():
     key = input("Input your key between 0 and 9 ")
-    print("The cordinates of the input is ", keyCordinate(key))
+    print("The coordinates of the input is ", keyCordinate(key))
 
 if __name__ == "__main__":
     main()
