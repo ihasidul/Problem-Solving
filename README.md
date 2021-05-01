@@ -3,6 +3,7 @@ Here are codes for the problem solving practices form various sites.
 # Site List:
 [HackerRank](www.hackerrank.com)\
 [leetcode](www.leetcode.com)\
-[codewars](www.codewars.com)
+[codewars](www.codewars.com)\
+[URI](www.urionlinejudge.com.br/judge/en/)
 
 
