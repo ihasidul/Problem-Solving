@@ -1,5 +1,5 @@
 
-numRay = [4,1, 3, 6, 4, 0,0, 8, 2, 3, 1]
+numRay = [4,3,2,7,8,2,3,1]
 arr_size = len(numRay)
 for i in range(arr_size):
   
