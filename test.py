@@ -12,6 +12,7 @@ class Solution:
         for i in range(pointer,len(nums)-1):
             nums[i + 1] = '_'
         print(nums)
+        print(pointer2)
 
 
 # It is a test line 
