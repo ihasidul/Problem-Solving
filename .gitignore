@@ -1,3 +1,4 @@
 *.exe
 .vs/
 CppProperties.json
+.mypy_cache/
